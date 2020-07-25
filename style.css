@@ -30,3 +30,8 @@ button{
     border-radius: 53px;
     display: inline-block;
 }
+
+h1{
+    font-family: cursive;
+    font-style: oblique;
+}
